@@ -6,7 +6,7 @@ title: Deployable RL Workshop @ RLC 2024 # the website title (if blank, full nam
 first_name: Deployable
 middle_name: RL
 last_name: Workshop
-email: deployable-rl@googlegroups.com
+email: deployable.rl@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
   Forked from <a href="https://github.com/an-instructive-workshop/an-instructive-workshop.github.io" target="_blank"> An Instructive Workshop</a>. Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>. 

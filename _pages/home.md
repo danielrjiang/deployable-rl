@@ -13,7 +13,7 @@ nav_order: 1
   <h4>Announcements</h4>
   <ol>
   <li>We've posted the <a href="/call">call for papers</a>! The paper submission deadline is <b>May 8, 2024</b>.</li>
-  <li>We've also posted a <a href="/schedule">tentative schedule</a>, a full-day event on <b>August 9, 2024</b> in <b>Amherst, MA</b>.</li>
+  <li>We've posted a <a href="#schedule">tentative schedule</a> for the full-day event on <b>August 9, 2024</b> in <b>Amherst, MA</b>.</li>
   </ol>
 
   <!-- <p>1. <b>Recordings</b> are available on the <a href="https://neurips.cc/virtual/2023/workshop/66498" target="_blank">NeurIPS website</a> (NeurIPS registration required). They will be made public after one month (Jan 2024).<br>
@@ -108,6 +108,32 @@ Time: 10:45-11:30 -->
         </div>
     </div>
 </html>
+
+
+## Schedule
+
+The schedule below is still tentative and subject to change.
+
+|-------------|:-------------|
+|__AM__&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||
+| 08:55 - 09:00 | Opening remarks |
+| 09:00 - 09:35 | Keynote 1 + Q&A |
+| 09:35 - 10:10 | Keynote 2 + Q&A |
+| 10:10 - 11:25 | Morning poster session + coffee break |
+| 11:25 - 12:00 | Keynote 3 + Q&A |
+
+
+
+|-------------|:-------------|
+|__PM__&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||
+| 12:00 - 01:00 | Lunch break
+| 01:00 - 01:35 | Keynote 4 + Q&A |
+| 01:35 - 02:10 | Keynote 5 + Q&A |
+| 02:10 - 03:10 | Afternoon poster session + coffee break |
+| 03:10 - 03:55 | Panel: Challenges surrounding RL deployment |
+| 03:55 - 04:00 | Concluding remarks |
+
+<br>
 
 
 ## Organizers
