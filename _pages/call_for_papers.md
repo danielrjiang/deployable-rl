@@ -11,12 +11,12 @@ nav_order: 2
 <br>
 ### Important Dates
 
-* Submissions open: April 2, 2024
-* Submission deadline: <b>May 8, 2024</b>
+* Submissions open: April 1, 2024
+* Submission deadline: <b>May 8, 2024 (AOE)</b>
   * Submission portal: [OpenReview](https://openreview.net/group?id=rl-conference.cc/RLC/2024/Workshop/Deployable_RL)
   * Style file: [Overleaf](https://www.overleaf.com/read/wzvmzpbnypvz#c13151)
-* Acceptance notification: May 30, 2024
-* Camera-ready papers due: July 9, 2024
+* Acceptance notification: May 30, 2024 (AOE)
+* Camera-ready papers due: July 9, 2024 (AOE)
 * Workshop date: August 9, 2024
 
 
