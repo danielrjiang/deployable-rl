@@ -165,8 +165,8 @@ The schedule below is still tentative and subject to change.
             <br>Boston University</p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/organizers/yi.png" alt="Yi Wan">
-            <p><a href="https://www.linkedin.com/in/yi-wan-73048b10a">Yi Wan</a>
+            <img src="/assets/img/organizers/yi.jpg" alt="Yi Wan">
+            <p><a href="https://sites.google.com/view/yi-wan">Yi Wan</a>
             <br>Meta</p>
         </div>
         <div class="team-member">
