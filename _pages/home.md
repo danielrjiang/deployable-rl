@@ -286,7 +286,7 @@ The schedule below is still tentative and subject to change.
 .focus-box {
     border: 0px;
     padding: 0px;
-    width: 600px;
+    max-width: 600px;
     margin: 0 auto;
     text-align: center;
     font-style: italic;
