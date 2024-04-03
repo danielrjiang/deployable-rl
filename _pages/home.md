@@ -87,21 +87,21 @@ Time: 10:45-11:30 -->
             <p><a href="https://www.zheqingbillzhu.com/">Zheqing (Bill) Zhu</a>
             <br>Meta<br><b>Moderator</b></p>
         </div>
-        <div class="team-member">
+        <!-- <div class="team-member">
             <img src="/assets/img/speakers/remi.png" alt="Remi Cadane">
             <p><a href="http://remicadene.com/">Remi Cadane</a>
             <br>Hugging Face</p>
-        </div>        
+        </div>         -->
         <div class="team-member">
             <img src="/assets/img/speakers/dhruv.jpg" alt="Dhruv Madeka">
             <p><a href="https://dhruvmadeka.com/">Dhruv Madeka</a>
             <br>Amazon</p>
         </div>
-        <div class="team-member">
+        <!-- <div class="team-member">
             <img src="/assets/img/speakers/kaushik.jpg" alt="Kaushik Subramanian">
             <p><a href="https://ai.sony/people/Kaushik-Subramanian/">Kaushik Subramanian</a>
             <br>Sony AI</p>
-        </div>
+        </div> -->
         <div class="team-member">
             <img src="/assets/img/speakers/blank.png" alt="TBA">
             <p>More panelists to be announced!</p>
