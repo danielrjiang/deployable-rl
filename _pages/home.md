@@ -37,7 +37,7 @@ Reinforcement learning (RL) and contextual bandit (CB) algorithms have been stud
 This workshop aims to place a spotlight on this topic, with the goal of advancing RL and CB algorithms towards becoming a widespread industry standard. To this end, we invite contributions on theory and practice of RL aimed at facilitating deployment to real-world problems, examples of which include but are not limited to:
 * __Methods to enable deployability in RL:__ offline RL, offline policy evaluation (OPE), offline to online RL, safe learning and exploration, preference learning, learning in partially observable settings, interpretable policies in high-stakes settings, and methods for improving deployment efficiency.
 * __Applications in personalization and recommendation systems:__ applications of RL and CB methods in technology platforms that interact with humans (e.g., audio and video recommendations, online advertising, LLMs).
-* __Applications in industrial automation__: applications of RL and CB methods in the control of physical systems or allocation of resouces (e.g., inventory management, ride-sharing, commercial cooling systems, data center congestion control).
+* __Applications in industrial automation__: applications of RL and CB methods in the control of physical systems or allocation of resources (e.g., inventory management, ride-sharing, commercial cooling systems, data center congestion control).
 * __Applications in decision systems for healthcare:__ applications of RL and CB methods in healthcare (e.g., managing chronic conditions, digital treatment recommendations, human-in-the-loop RL).
 
 The above are only a handful of suitable topics. We welcome submissions on any topic that focuses on the RL deployment process. The submissions can be <b>4-8 pages in length</b> and be of either a theoretical/methodological or empirical nature.
@@ -97,11 +97,11 @@ Time: 10:45-11:30 -->
             <p><a href="https://dhruvmadeka.com/">Dhruv Madeka</a>
             <br>Amazon</p>
         </div>
-        <!-- <div class="team-member">
+        <div class="team-member">
             <img src="/assets/img/speakers/kaushik.jpg" alt="Kaushik Subramanian">
             <p><a href="https://ai.sony/people/Kaushik-Subramanian/">Kaushik Subramanian</a>
             <br>Sony AI</p>
-        </div> -->
+        </div>
         <div class="team-member">
             <img src="/assets/img/speakers/blank.png" alt="TBA">
             <p>More panelists to be announced!</p>
