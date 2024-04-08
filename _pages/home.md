@@ -27,7 +27,7 @@ nav_order: 1
 
 <br>
 
-Real-world applications pose distinct challenges for decision-making algorithms, especially during the <i>deployment phase</i>. These include high-dimensional observation and action spaces, tasks that may be partially observable or non- stationary, and feedback that is often unspecified, delayed, or corrupted. Furthermore, feedback rarely comes in the form of a scalar reward function, exploration is often prohibitively costly, and safety considerations are a prerequisite for trained models to be deployed.
+Real-world applications pose distinct challenges for decision-making algorithms, especially during the <i>deployment phase</i>. These include high-dimensional observation and action spaces, tasks that may be partially observable or non-stationary, and feedback that is often unspecified, delayed, or corrupted. Furthermore, feedback rarely comes in the form of a scalar reward function, exploration is often prohibitively costly, and safety considerations are a prerequisite for trained models to be deployed.
 
 Reinforcement learning (RL) and contextual bandit (CB) algorithms have been studied in many settings, including healthcare, recommender and advertising systems, resource allocation and operations management, hardware and engineering design, and more recently, large foundation models. Despite many studies focusing on applying RL to such domains, the majority of solutions are <i>not</i> eventually deployed. An important question for the RL community to ask is:
 <div class="focus-box">
@@ -87,11 +87,11 @@ Time: 10:45-11:30 -->
             <p><a href="https://www.zheqingbillzhu.com/">Zheqing (Bill) Zhu</a>
             <br>Meta<br><b>Moderator</b></p>
         </div>
-        <!-- <div class="team-member">
+        <div class="team-member">
             <img src="/assets/img/speakers/remi.png" alt="Remi Cadane">
             <p><a href="http://remicadene.com/">Remi Cadane</a>
             <br>Hugging Face</p>
-        </div>         -->
+        </div>
         <div class="team-member">
             <img src="/assets/img/speakers/dhruv.jpg" alt="Dhruv Madeka">
             <p><a href="https://dhruvmadeka.com/">Dhruv Madeka</a>
