@@ -98,6 +98,11 @@ Time: 10:45-11:30 -->
             <br>Amazon</p>
         </div>
         <div class="team-member">
+            <img src="/assets/img/speakers/dan.jpg" alt="Daniel Russo">
+            <p><a href="https://djrusso.github.io/">Daniel Russo</a>
+            <br>Columbia Business School</p>
+        </div>
+        <div class="team-member">
             <img src="/assets/img/speakers/kaushik.jpg" alt="Kaushik Subramanian">
             <p><a href="https://ai.sony/people/Kaushik-Subramanian/">Kaushik Subramanian</a>
             <br>Sony AI</p>
