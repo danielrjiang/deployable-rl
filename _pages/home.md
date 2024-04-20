@@ -108,6 +108,11 @@ Time: 10:45-11:30 -->
             <br>Sony AI</p>
         </div>
         <div class="team-member">
+            <img src="/assets/img/speakers/cathy.jpg" alt="Cathy Wu">
+            <p><a href="http://www.wucathy.com/">Cathy Wu</a>
+            <br>MIT</p>
+        </div>
+        <div class="team-member">
             <img src="/assets/img/speakers/blank.png" alt="TBA">
             <p>More panelists to be announced!</p>
         </div>
