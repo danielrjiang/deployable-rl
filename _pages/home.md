@@ -12,7 +12,7 @@ nav_order: 1
 <div class="news-box">
   <h4>Announcements</h4>
   <ol>
-  <li>We've posted the <a href="/call">call for papers</a>! The paper submission deadline is <b>May 8, 2024</b>.</li>
+  <li>We've posted the <a href="/call">call for papers</a>! The paper submission deadline is <b>May 17, 2024</b> (extended from May 8 for RLC notifications).</li>
   <li>We've posted a <a href="#schedule">tentative schedule</a> for the full-day event on <b>August 9, 2024</b> in <b>Amherst, MA</b>.</li>
   </ol>
 
