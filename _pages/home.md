@@ -83,18 +83,13 @@ Time: 10:45-11:30 -->
 <html>
     <div class="team-container">
         <div class="team-member">
-            <img src="/assets/img/speakers/bill.jpg" alt="Zheqing (Bill) Zhu">
-            <p><a href="https://www.zheqingbillzhu.com/">Zheqing (Bill) Zhu</a>
-            <br>Meta<br><b>Moderator</b></p>
+            <img src="/assets/img/speakers/minmin.jpeg" alt="Minmin Chen">
+            <p><a href="https://mchen24.github.io/">Minmin Chen</a>
+            <br>Google Deepmind</p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/speakers/remi.png" alt="Remi Cadane">
-            <p><a href="http://remicadene.com/">Remi Cadane</a>
-            <br>Hugging Face</p>
-        </div>
-        <div class="team-member">
-            <img src="/assets/img/speakers/dhruv.jpg" alt="Dhruv Madeka">
-            <p><a href="https://dhruvmadeka.com/">Dhruv Madeka</a>
+            <img src="/assets/img/speakers/omer.png" alt="Omer Gottsman">
+            <p><a href="https://omergott.github.io/">Omer Gottsman</a>
             <br>Amazon</p>
         </div>
         <div class="team-member">
@@ -113,8 +108,9 @@ Time: 10:45-11:30 -->
             <br>MIT</p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/speakers/blank.png" alt="TBA">
-            <p>More panelists to be announced!</p>
+            <img src="/assets/img/speakers/bill.jpg" alt="Zheqing (Bill) Zhu">
+            <p><a href="https://www.zheqingbillzhu.com/">Zheqing (Bill) Zhu</a>
+            <br>Meta<br><b>Panel moderator</b></p>
         </div>
     </div>
 </html>
