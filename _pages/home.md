@@ -118,26 +118,31 @@ Time: 10:45-11:30 -->
 
 ## Schedule
 
-The schedule below is still tentative and subject to change.
+The schedule below is tentative and subject to change.
 
 |-------------|:-------------|
 |__AM__&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||
 | 08:55 - 09:00 | Opening remarks |
-| 09:00 - 09:35 | Keynote 1 + Q&A |
-| 09:35 - 10:10 | Keynote 2 + Q&A |
-| 10:10 - 11:25 | Morning poster session + coffee break |
-| 11:25 - 12:00 | Keynote 3 + Q&A |
-
+| 09:00 - 09:40 | Keynote: <b>Minmin Chen</b> |
+| | &nbsp;&nbsp;&nbsp;&nbsp;<i>Talk Title TBA</i>
+| 09:40 - 10:20 | Keynote: <b>Hongseok Namkoong</b> |
+| | &nbsp;&nbsp;&nbsp;&nbsp;<i>Adaptive Experimentation at Scale</i>
+| 10:20 - 11:20 | Morning poster session + coffee break |
+| 11:20 - 12:00 | Keynote: <b>John Langford</b> |
+| | &nbsp;&nbsp;&nbsp;&nbsp;<i>Contextual Bandit Systems</i>
 
 
 |-------------|:-------------|
 |__PM__&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||
-| 12:00 - 01:00 | Lunch break
-| 01:00 - 01:35 | Keynote 4 + Q&A |
-| 01:35 - 02:10 | Keynote 5 + Q&A |
-| 02:10 - 03:10 | Afternoon poster session + coffee break |
-| 03:10 - 03:55 | Panel: Challenges surrounding RL deployment |
-| 03:55 - 04:00 | Concluding remarks |
+| 12:00 - 01:00 | Lunch break (on your own)
+| 01:00 - 02:00 | Panel: <b>Minmin Chen</b>, <b>Omer Gottsman</b>, <b>Daniel Russo</b>, <b>Kaushik Subramanian</b>, <b>Cathy Wu</b>, <b>Zheqing (Bill) Zhu</b> |
+|| &nbsp;&nbsp;&nbsp;&nbsp;<i>Challenges Surrounding RL Deployment</i>
+| 02:00 - 02:40 | Afternoon poster session + coffee break |
+| 02:40 - 03:20 | Keynote: <b>Hamsa Bastani</b> |
+| | &nbsp;&nbsp;&nbsp;&nbsp;<i>Talk Title TBA</i>
+| 03:20 - 04:00 | Keynote: <b>Aviral Kumar</b> |
+| | &nbsp;&nbsp;&nbsp;&nbsp;<i>Converting Foundation Models to Deployable Agents via Offline and Online RL</i>
+| 04:00 - 04:05 | Concluding remarks |
 
 <br>
 
