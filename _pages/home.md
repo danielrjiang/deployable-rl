@@ -141,7 +141,7 @@ The schedule below is tentative and subject to change.
 || &nbsp;&nbsp;&nbsp;&nbsp;<i>Challenges Surrounding RL Deployment</i>
 | 02:00 - 02:40 | Afternoon poster session + coffee break |
 | 02:40 - 03:20 | Keynote: <b>Hamsa Bastani</b> |
-| | &nbsp;&nbsp;&nbsp;&nbsp;<i>Talk Title TBA</i>
+| | &nbsp;&nbsp;&nbsp;&nbsp;<i>Lessons from Deploying Algorithms for Public Health</i>
 | 03:20 - 04:00 | Keynote: <b>Aviral Kumar</b> |
 | | &nbsp;&nbsp;&nbsp;&nbsp;<i>Converting Foundation Models to Deployable Agents via Offline and Online RL</i>
 | 04:00 - 04:05 | Concluding remarks |
