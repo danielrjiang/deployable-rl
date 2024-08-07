@@ -55,11 +55,11 @@ The above are only a handful of suitable topics. We welcome submissions on any t
             <p><a href="https://hamsabastani.github.io/">Hamsa Bastani</a>
             <br>Wharton, University of Pennsylvania</p>
         </div>
-        <div class="team-member">
-            <img src="/assets/img/speakers/minmin.jpeg" alt="Minmin Chen">
-            <p><a href="https://mchen24.github.io/">Minmin Chen</a>
-            <br>Google Deepmind</p>
-        </div>
+        <!-- <div class="team-member">
+            <img src="/assets/img/speakers/dan.jpg" alt="Daniel Russo">
+            <p><a href="https://djrusso.github.io/">Daniel Russo</a>
+            <br>Columbia Business School</p>
+        </div> -->
         <div class="team-member">
             <img src="/assets/img/speakers/aviral.jpg" alt="Aviral Kumar">
             <p><a href="https://aviralkumar2907.github.io/">Aviral Kumar</a>
@@ -85,15 +85,15 @@ Time: 10:45-11:30 -->
 <html>
     <div class="team-container">
         <div class="team-member">
-            <img src="/assets/img/speakers/minmin.jpeg" alt="Minmin Chen">
-            <p><a href="https://mchen24.github.io/">Minmin Chen</a>
-            <br>Google Deepmind</p>
-        </div>
-        <div class="team-member">
             <img src="/assets/img/speakers/omer.png" alt="Omer Gottsman">
             <p><a href="https://omergott.github.io/">Omer Gottsman</a>
             <br>Amazon</p>
         </div>
+        <!-- <div class="team-member">
+            <img src="/assets/img/speakers/roberta.jpg" alt="Roberta Raileanu">
+            <p><a href="https://rraileanu.github.io/">Roberta Raileanu</a>
+            <br>Meta GenAI</p>
+        </div> -->
         <div class="team-member">
             <img src="/assets/img/speakers/dan.jpg" alt="Daniel Russo">
             <p><a href="https://djrusso.github.io/">Daniel Russo</a>
@@ -125,7 +125,7 @@ The schedule below is tentative and subject to change.
 |-------------|:-------------|
 |__AM__&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||
 | 08:55 - 09:00 | Opening remarks |
-| 09:00 - 09:40 | Keynote: <b>Minmin Chen</b> |
+| 09:00 - 09:40 | Keynote: TBA |
 | | &nbsp;&nbsp;&nbsp;&nbsp;<i>Talk Title TBA</i>
 | 09:40 - 10:20 | Keynote: <b>Hongseok Namkoong</b> |
 | | &nbsp;&nbsp;&nbsp;&nbsp;<i>Adaptive Experimentation at Scale</i>
@@ -137,7 +137,7 @@ The schedule below is tentative and subject to change.
 |-------------|:-------------|
 |__PM__&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||
 | 12:00 - 01:00 | Lunch break (on your own)
-| 01:00 - 02:00 | Panel: <b>Minmin Chen</b>, <b>Omer Gottsman</b>, <b>Daniel Russo</b>, <b>Kaushik Subramanian</b>, <b>Cathy Wu</b>, <b>Zheqing (Bill) Zhu</b> |
+| 01:00 - 02:00 | Panel: <b>Omer Gottsman</b>, <b>Roberta Raileanu</b>, <b>Daniel Russo</b>, <b>Kaushik Subramanian</b>, <b>Cathy Wu</b>, <b>Zheqing (Bill) Zhu</b> |
 || &nbsp;&nbsp;&nbsp;&nbsp;<i>Challenges Surrounding RL Deployment</i>
 | 02:00 - 02:40 | Afternoon poster session + coffee break |
 | 02:40 - 03:20 | Keynote: <b>Hamsa Bastani</b> |
