@@ -55,11 +55,11 @@ The above are only a handful of suitable topics. We welcome submissions on any t
             <p><a href="https://hamsabastani.github.io/">Hamsa Bastani</a>
             <br>Wharton, University of Pennsylvania</p>
         </div>
-        <!-- <div class="team-member">
+        <div class="team-member">
             <img src="/assets/img/speakers/dan.jpg" alt="Daniel Russo">
             <p><a href="https://djrusso.github.io/">Daniel Russo</a>
             <br>Columbia Business School</p>
-        </div> -->
+        </div>
         <div class="team-member">
             <img src="/assets/img/speakers/aviral.jpg" alt="Aviral Kumar">
             <p><a href="https://aviralkumar2907.github.io/">Aviral Kumar</a>
@@ -89,11 +89,11 @@ Time: 10:45-11:30 -->
             <p><a href="https://omergott.github.io/">Omer Gottsman</a>
             <br>Amazon</p>
         </div>
-        <!-- <div class="team-member">
+        <div class="team-member">
             <img src="/assets/img/speakers/roberta.jpg" alt="Roberta Raileanu">
             <p><a href="https://rraileanu.github.io/">Roberta Raileanu</a>
             <br>Meta GenAI</p>
-        </div> -->
+        </div>
         <div class="team-member">
             <img src="/assets/img/speakers/dan.jpg" alt="Daniel Russo">
             <p><a href="https://djrusso.github.io/">Daniel Russo</a>
@@ -125,8 +125,8 @@ The schedule below is tentative and subject to change.
 |-------------|:-------------|
 |__AM__&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||
 | 08:55 - 09:00 | Opening remarks |
-| 09:00 - 09:40 | Keynote: TBA |
-| | &nbsp;&nbsp;&nbsp;&nbsp;<i>Talk Title TBA</i>
+| 09:00 - 09:40 | Keynote: <b>Daniel Russo</b> |
+| | &nbsp;&nbsp;&nbsp;&nbsp;<i>Optimizing Audio Recommendations for the Long-Term: A Reinforcement Learning Perspective</i>
 | 09:40 - 10:20 | Keynote: <b>Hongseok Namkoong</b> |
 | | &nbsp;&nbsp;&nbsp;&nbsp;<i>Adaptive Experimentation at Scale</i>
 | 10:20 - 11:20 | Morning poster session + coffee break |
