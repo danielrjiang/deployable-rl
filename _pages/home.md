@@ -89,11 +89,11 @@ Time: 10:45-11:30 -->
             <p><a href="https://omergott.github.io/">Omer Gottsman</a>
             <br>Amazon</p>
         </div>
-        <div class="team-member">
+        <!-- <div class="team-member">
             <img src="/assets/img/speakers/roberta.jpg" alt="Roberta Raileanu">
             <p><a href="https://rraileanu.github.io/">Roberta Raileanu</a>
             <br>Meta GenAI</p>
-        </div>
+        </div> -->
         <div class="team-member">
             <img src="/assets/img/speakers/dan.jpg" alt="Daniel Russo">
             <p><a href="https://djrusso.github.io/">Daniel Russo</a>
